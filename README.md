@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dmaxadu&show_icons=true&theme=radical"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=radical"/></br></br>
+  <img src="https://raw.githubusercontent.com/dmaxadu/dmaxadu/output/github-contribution-grid-snake.svg"/>
  </div>
-<img src="https://raw.githubusercontent.com/dmaxadu/dmaxadu/output/github-contribution-grid-snake.svg"/>
+
