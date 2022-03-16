@@ -17,8 +17,8 @@
  </div>
  <h2> 📈 Some stats... </h2>
 <div dir="auto" align="center">
-  <img height="160em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dmaxadu&show_icons=true&theme=radical"/>
-  <img height="160em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=radical&layout=compact"/>
+  <img height="160em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dmaxadu&show_icons=true&theme=chartreuse-dark"/>
+  <img height="160em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=chartreuse-dark&layout=compact"/>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/dmaxadu/dmaxadu/output/github-contribution-grid-snake.svg"/>
