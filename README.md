@@ -22,3 +22,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=radical"/>
  </div>
+<img src="https://raw.githubusercontent.com/dmaxadu/dmaxadu/output/github-contribution-grid-snake.svg"/>
