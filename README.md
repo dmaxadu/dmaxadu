@@ -10,10 +10,11 @@
 <h2> 📱 Follow me :) </h2>
 <div align="center">
   <a href="https://instagram.com/dmaxadu"><img src="https://img.shields.io/badge/Instagram-dmaxadu-ff69b4?style=for-the-badge&logo=instagram&labelColor=lightgrey"></a>
-  <a href="https://www.deezer.com/br/profile/353056733?origin=activation-journey"><img src="https://img.shields.io/badge/deezer-dmaxadu-red?style=for-the-badge&logo=deezer&labelColor=lightgrey"></a>
+  <a href="https://www.deezer.com/br/profile/353056733?origin=activation-journey"><img src="https://img.shields.io/badge/deezer-dmaxadu-yellow?style=for-the-badge&logo=deezer&labelColor=lightgrey"></a>
  </div>
  <div align="center">
-    <a href="https://danielmachado.netlify.app"><img src="https://img.shields.io/badge/my_website-click_here-yellow?style=for-the-badge&labelColor=lightgrey"/></a>
+    <a href="https://danielmachado.netlify.app"><img src="https://img.shields.io/badge/my_website-click_here-success?style=for-the-badge&labelColor=lightgrey"/></a>
+    <a href="https://twitter.com/dmaxadu"><img src="https://img.shields.io/badge/twitter-dmaxadu-9cf?style=for-the-badge&labelColor=lightgrey&logo=twitter"/></a>
  </div>
  <h2> 📈 Some stats... </h2>
 <div dir="auto" align="center">
