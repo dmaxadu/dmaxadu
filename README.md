@@ -16,7 +16,7 @@
     <a href="https://danielmachado.netlify.app"><img src="https://img.shields.io/badge/my_website-click_here-yellow?style=for-the-badge&labelColor=lightgrey"/></a>
  </div>
  <h2> 📈 Some stats... </h2>
-<div align="center">
+<div dir="auto" align="center">
   <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dmaxadu&show_icons=true&theme=radical"/>
   <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=radical&layout=compact"/>
 </div>
