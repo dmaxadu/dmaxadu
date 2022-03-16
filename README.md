@@ -17,10 +17,10 @@
  </div>
  <h2> 📈 Some stats... </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmaxadu&show_icons=true&theme=radical"/>
+  <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dmaxadu&show_icons=true&theme=radical"/>
+  <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=radical&layout=compact"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaxadu&theme=radical"/></br></br>
   <img src="https://raw.githubusercontent.com/dmaxadu/dmaxadu/output/github-contribution-grid-snake.svg"/>
  </div>
 
