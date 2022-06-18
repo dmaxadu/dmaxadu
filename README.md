@@ -1,7 +1,7 @@
 # 👋🏽 Hi! My name is Daniel...
 <h4 align="center">Welcome to my Profile</h4>
 <div align="center">
-  ![Header](https://imgur.com/a/yu8RNFT)
+  <img src="https://augustopontin.com.br/wp-content/uploads/2020/02/hello_world.gif"/></br></br>
   <h4>Visitor's Counter</h4>
   <img src="https://profile-counter.glitch.me/dmaxadu/count.svg"/>
  </div>
@@ -24,4 +24,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/dmaxadu/dmaxadu/output/github-contribution-grid-snake.svg"/>
  </div>
-
