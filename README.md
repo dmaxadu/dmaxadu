@@ -1,7 +1,7 @@
 # 👋🏽 Hi! My name is Daniel...
 <h4 align="center">Welcome to my Profile</h4>
 <div align="center">
-  <img src="https://imgur.com/rJAwGa2"/></br></br>
+  <img src="(https://imgur.com/a/yu8RNFT)"/></br></br>
   <h4>Visitor's Counter</h4>
   <img src="https://profile-counter.glitch.me/dmaxadu/count.svg"/>
  </div>
