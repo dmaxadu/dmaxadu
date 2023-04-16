@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/dmaxadu/count.svg"/>
  </div>
  </br>
-<p>I am 22 years old, currently doing Computer Science at the Federal University of Rio de Janeiro. My goal is to work as a fullstack developer, and for that I keep learning new tools and technologies every day. I believe that with a lot of perseverance, wisdom, and courage I will be able to achieve my goals and fulfill my dreams.</p>
+<p>I am 23 years old, currently doing Computer Science at the Federal University of Rio de Janeiro. My goal is to work as a fullstack developer, and for that I keep learning new tools and technologies every day. I believe that with a lot of perseverance, wisdom, and courage I will be able to achieve my goals and fulfill my dreams.</p>
 <h2> 📱 Follow me :) </h2>
 <div align="center">
   <a href="https://instagram.com/dmaxadu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
