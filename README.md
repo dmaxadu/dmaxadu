@@ -9,12 +9,15 @@
 <p>I am 23 years old, currently doing Computer Science at the Federal University of Rio de Janeiro. My goal is to work as a fullstack developer, and for that I keep learning new tools and technologies every day. I believe that with a lot of perseverance, wisdom, and courage I will be able to achieve my goals and fulfill my dreams.</p>
 <h2> 📱 Follow me :) </h2>
 <div align="center">
+     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lpiishd7e5ftbb3efze274m67q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+  </div>
+  <br>
+<div align="center">
   <a href="https://instagram.com/dmaxadu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31lpiishd7e5ftbb3efze274m67q?si=PSmZu5NFRvmVgwIgCaP9Aw"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- </div>
- <div align="center">
-    <a href="https://danielmachado.netlify.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-    <a href="https://twitter.com/_dxmadu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <br>
+  <a href="https://danielmachado.netlify.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://twitter.com/_dxmadu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  </div>
  <h2> 📈 Some stats... </h2>
 <div dir="auto" align="center">
